@@ -3,3 +3,5 @@ Just another repository
 
 Hi!
 Testing here.
+
+Let's delete it.
