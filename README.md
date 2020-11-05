@@ -8,5 +8,10 @@ Let's delete it.
 
 how checkout
 
-write in pc
+<<<<<<< HEAD
 
+=======
+checkout test 2
+>>>>>>> 6d1487678a19f9a4571654050b1208ff49234fe7
+
+wirte in pc
