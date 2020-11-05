@@ -8,3 +8,5 @@ Let's delete it.
 
 how checkout
 
+checkout test 2
+
